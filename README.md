@@ -17,7 +17,7 @@ A modern Library Management System built in **Java** using **Swing**. It support
 ## 🛠️ Technologies Used
 
 - Java SE 8+
-- Swing for GUI components
+- Swing for GUI(graphical user interface)
 - Java I/O for reading/writing books
 
 
@@ -25,11 +25,11 @@ A modern Library Management System built in **Java** using **Swing**. It support
 
 ### Requirements:
 - JDK 8 or higher
-- Any Java IDE (IntelliJ, Eclipse, NetBeans) or Command Line
+- Any Java IDE (IntelliJ, Eclipse) or Command Line
 
 ### Steps:
 
-1. **Clone or Download** the project.
+1. **Download** the project.
 2. Open the project in your IDE or terminal.
 3. Compile the Java files:
 
